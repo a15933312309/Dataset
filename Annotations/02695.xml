@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages - 副本</folder>
+	<filename>000070.jpg</filename>
+	<path>D:\labelimg\helmets\JPEGImages - 副本\000070.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>71</ymin>
+			<xmax>233</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>other_clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>178</ymin>
+			<xmax>211</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

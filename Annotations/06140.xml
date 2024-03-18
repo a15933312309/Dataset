@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages - 副本</folder>
+	<filename>b2e101f2-cd25-48a3-aa4f-61cce6ea2ee6.jpg</filename>
+	<path>D:\labelimg\helmets\JPEGImages - 副本\b2e101f2-cd25-48a3-aa4f-61cce6ea2ee6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>other_clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>183</ymin>
+			<xmax>395</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>25</ymin>
+			<xmax>316</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

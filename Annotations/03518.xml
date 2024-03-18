@@ -1,0 +1,14 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>b77f9877-b082-4c00-bacf-48e03f1cfa18.jpg</filename>
+	<path>F:\Reflective_vests\VOC2021\JPEGImages\b77f9877-b082-4c00-bacf-48e03f1cfa18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

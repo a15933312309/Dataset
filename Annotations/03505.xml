@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>b05ee016-a414-452f-8d94-67e47dcdcaaf.jpg</filename>
+	<path>D:\labelimg\helmets\JPEGImages\b05ee016-a414-452f-8d94-67e47dcdcaaf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>418</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>other_clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>2</ymin>
+			<xmax>382</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

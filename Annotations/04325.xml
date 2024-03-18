@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages - 副本</folder>
+	<filename>part2_001085.jpg</filename>
+	<path>D:\labelimg\helmets\JPEGImages - 副本\part2_001085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2290</xmin>
+			<ymin>194</ymin>
+			<xmax>3622</xmax>
+			<ymax>1770</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>reflective_clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2503</xmin>
+			<ymin>1243</ymin>
+			<xmax>4969</xmax>
+			<ymax>3828</ymax>
+		</bndbox>
+	</object>
+</annotation>

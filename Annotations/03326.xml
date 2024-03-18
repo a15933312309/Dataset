@@ -1,0 +1,14 @@
+<annotation>
+	<folder>111</folder>
+	<filename>4ffefac1-26b8-4c78-b33c-9754c73dd3d1.jpg</filename>
+	<path>F:\Reflective_vests\VOC2021\111\4ffefac1-26b8-4c78-b33c-9754c73dd3d1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>113</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

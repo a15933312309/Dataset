@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages - 副本</folder>
+	<filename>af6757f8-24e9-4197-a08f-01ce376f1c1b.jpg</filename>
+	<path>D:\labelimg\helmets\JPEGImages - 副本\af6757f8-24e9-4197-a08f-01ce376f1c1b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reflective_clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>93</ymin>
+			<xmax>286</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>1</ymin>
+			<xmax>239</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

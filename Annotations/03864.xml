@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages1</folder>
+	<filename>part2_000410.jpg</filename>
+	<path>D:\labelimg\helmets1\JPEGImages1\part2_000410.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>55</ymin>
+			<xmax>491</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
