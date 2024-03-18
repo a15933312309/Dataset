@@ -1,0 +1,9 @@
+train: D:/yolov8_4.1/data/images/train/
+val: D:/yolov8_4.1/data/images/val/
+test: D:/yolov8_4.1/data/images/test/
+
+# number of classes
+nc: 4
+
+# class names
+names:  [ 'head', 'helmet', 'other_clothes', 'reflective_clothes' ]
